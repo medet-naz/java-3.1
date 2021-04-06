@@ -1,8 +1,8 @@
 public class main {
     public static void main(String[] args) {
-        int ticket = 2000;
+        int price = 2000;
         int bonus = 20;
-        int miles = ticket / bonus;
+        int miles = price / bonus;
 
         System.out.println(miles);
     }
